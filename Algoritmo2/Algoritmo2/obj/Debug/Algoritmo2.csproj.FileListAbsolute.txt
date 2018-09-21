@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\bin\Debug\Algoritmo2.exe.config
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\bin\Debug\Algoritmo2.exe
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\bin\Debug\Algoritmo2.pdb
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\obj\Debug\Algoritmo2.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\obj\Debug\Algoritmo2.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\obj\Debug\Algoritmo2.exe
+C:\Users\joseluisperezcalvo\Desktop\Estructura de Datos\Algoritmo2\Algoritmo2\obj\Debug\Algoritmo2.pdb
