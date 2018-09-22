@@ -1,0 +1,14 @@
+F:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe.config
+F:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe
+F:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.pdb
+F:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csprojAssemblyReference.cache
+F:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csproj.CoreCompileInputs.cache
+F:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.exe
+F:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.pdb
+G:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe.config
+G:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.exe
+G:\Algoritmo4\Algoritmo4\bin\Debug\Algoritmo4.pdb
+G:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csprojResolveAssemblyReference.cache
+G:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.csproj.CoreCompileInputs.cache
+G:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.exe
+G:\Algoritmo4\Algoritmo4\obj\Debug\Algoritmo4.pdb
