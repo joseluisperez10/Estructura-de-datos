@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\bin\Debug\Algoritmo8.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo8\Algoritmo8\obj\Debug\Algoritmo8.pdb
