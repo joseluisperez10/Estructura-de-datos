@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.pdb
