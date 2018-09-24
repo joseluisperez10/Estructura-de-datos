@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\bin\Debug\Algoritmo5.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\bin\Debug\Algoritmo5.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\bin\Debug\Algoritmo5.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\obj\Debug\Algoritmo5.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\obj\Debug\Algoritmo5.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\obj\Debug\Algoritmo5.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Algoritmo5\Algoritmo5\obj\Debug\Algoritmo5.pdb
