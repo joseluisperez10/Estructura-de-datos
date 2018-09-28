@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\bin\Debug\Ejercicio2_1.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\bin\Debug\Ejercicio2_1.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\bin\Debug\Ejercicio2_1.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\obj\Debug\Ejercicio2_1.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\obj\Debug\Ejercicio2_1.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\obj\Debug\Ejercicio2_1.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\Ejercicio2_1\Ejercicio2_1\obj\Debug\Ejercicio2_1.pdb
