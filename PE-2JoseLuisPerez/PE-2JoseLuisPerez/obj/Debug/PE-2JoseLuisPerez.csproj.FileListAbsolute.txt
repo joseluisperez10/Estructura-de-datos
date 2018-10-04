@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\obj\Debug\PE-2JoseLuisPerez.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\obj\Debug\PE-2JoseLuisPerez.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\bin\Debug\PE-2JoseLuisPerez.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\bin\Debug\PE-2JoseLuisPerez.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\bin\Debug\PE-2JoseLuisPerez.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\obj\Debug\PE-2JoseLuisPerez.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PE-2JoseLuisPerez\PE-2JoseLuisPerez\obj\Debug\PE-2JoseLuisPerez.pdb
