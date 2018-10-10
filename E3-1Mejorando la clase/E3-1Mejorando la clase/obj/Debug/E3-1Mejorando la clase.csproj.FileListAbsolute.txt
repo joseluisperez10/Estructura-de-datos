@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\bin\Debug\E3-1Mejorando la clase.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\bin\Debug\E3-1Mejorando la clase.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\bin\Debug\E3-1Mejorando la clase.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\obj\Debug\E3-1Mejorando la clase.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\obj\Debug\E3-1Mejorando la clase.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\obj\Debug\E3-1Mejorando la clase.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-1Mejorando la clase\E3-1Mejorando la clase\obj\Debug\E3-1Mejorando la clase.pdb
