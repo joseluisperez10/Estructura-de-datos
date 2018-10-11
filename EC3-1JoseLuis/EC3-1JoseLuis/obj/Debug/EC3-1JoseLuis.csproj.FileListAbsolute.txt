@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\bin\Debug\EC3-1JoseLuis.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\bin\Debug\EC3-1JoseLuis.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\bin\Debug\EC3-1JoseLuis.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\obj\Debug\EC3-1JoseLuis.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\obj\Debug\EC3-1JoseLuis.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\obj\Debug\EC3-1JoseLuis.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\EC3-1JoseLuis\EC3-1JoseLuis\obj\Debug\EC3-1JoseLuis.pdb
