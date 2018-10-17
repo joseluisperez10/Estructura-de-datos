@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\bin\Debug\E3-2 JoseLuis metodos de queue.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\bin\Debug\E3-2 JoseLuis metodos de queue.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\bin\Debug\E3-2 JoseLuis metodos de queue.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\obj\Debug\E3-2 JoseLuis metodos de queue.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\obj\Debug\E3-2 JoseLuis metodos de queue.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\obj\Debug\E3-2 JoseLuis metodos de queue.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-2 JoseLuis metodos de queue\E3-2 JoseLuis metodos de queue\obj\Debug\E3-2 JoseLuis metodos de queue.pdb
