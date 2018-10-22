@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\bin\Debug\E3-3JoseLuisBlackJack.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\bin\Debug\E3-3JoseLuisBlackJack.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\bin\Debug\E3-3JoseLuisBlackJack.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\obj\Debug\E3-3JoseLuisBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\obj\Debug\E3-3JoseLuisBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\obj\Debug\E3-3JoseLuisBlackJack.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E3-3JoseLuisBlackJack\E3-3JoseLuisBlackJack\obj\Debug\E3-3JoseLuisBlackJack.pdb
