@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\bin\Debug\ExamenU3JoseLuis.exe.config
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\bin\Debug\ExamenU3JoseLuis.exe
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\bin\Debug\ExamenU3JoseLuis.pdb
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\obj\Debug\ExamenU3JoseLuis.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\obj\Debug\ExamenU3JoseLuis.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\obj\Debug\ExamenU3JoseLuis.exe
+C:\Users\joseluisperezcalvo\Desktop\ExamenU3JoseLuis\ExamenU3JoseLuis\obj\Debug\ExamenU3JoseLuis.pdb
