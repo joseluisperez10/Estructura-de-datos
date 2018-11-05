@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\obj\Debug\PracticasEvaluativasJoseLuis.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\obj\Debug\PracticasEvaluativasJoseLuis.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\bin\Debug\PracticasEvaluativasJoseLuis.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\bin\Debug\PracticasEvaluativasJoseLuis.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\bin\Debug\PracticasEvaluativasJoseLuis.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\obj\Debug\PracticasEvaluativasJoseLuis.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\PracticasEvaluativasJoseLuis\PracticasEvaluativasJoseLuis\obj\Debug\PracticasEvaluativasJoseLuis.pdb
