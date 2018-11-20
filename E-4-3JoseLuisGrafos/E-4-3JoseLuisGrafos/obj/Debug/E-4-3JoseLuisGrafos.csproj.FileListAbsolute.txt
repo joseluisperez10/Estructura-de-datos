@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\bin\Debug\E-4-3JoseLuisGrafos.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\bin\Debug\E-4-3JoseLuisGrafos.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\bin\Debug\E-4-3JoseLuisGrafos.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\obj\Debug\E-4-3JoseLuisGrafos.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\obj\Debug\E-4-3JoseLuisGrafos.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\obj\Debug\E-4-3JoseLuisGrafos.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\E-4-3JoseLuisGrafos\E-4-3JoseLuisGrafos\obj\Debug\E-4-3JoseLuisGrafos.pdb
