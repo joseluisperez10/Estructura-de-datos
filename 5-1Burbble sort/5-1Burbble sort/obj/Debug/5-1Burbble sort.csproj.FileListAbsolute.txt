@@ -1,0 +1,7 @@
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\bin\Debug\5-1Burbble sort.exe.config
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\bin\Debug\5-1Burbble sort.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\bin\Debug\5-1Burbble sort.pdb
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\obj\Debug\5-1Burbble sort.csprojResolveAssemblyReference.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\obj\Debug\5-1Burbble sort.csproj.CoreCompileInputs.cache
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\obj\Debug\5-1Burbble sort.exe
+C:\Users\joseluisperezcalvo\Documents\GitHub\Estructura-de-datos\5-1Burbble sort\5-1Burbble sort\obj\Debug\5-1Burbble sort.pdb
